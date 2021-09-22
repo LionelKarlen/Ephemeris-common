@@ -1,0 +1,15 @@
+{
+  "name": "sternwarte-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+	"build": "tsc -p ."  
+  },
+  "author": "Lionel Karlen <lionel.karlen@protonmail.ch>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}

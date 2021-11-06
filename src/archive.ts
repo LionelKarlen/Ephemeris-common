@@ -4,5 +4,5 @@ export interface Archive {
 	year: number,
 	sunlab: ArchiveCache,
 	regular: ArchiveCache,
-	engagements: Engagement,
+	engagements: Engagement[],
 }

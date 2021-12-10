@@ -1,7 +1,7 @@
 {
   "name": "ephemeris-common",
   "version": "1.0.0",
-  "description": "",
+  "description": "Common types for the ephemeris project",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
